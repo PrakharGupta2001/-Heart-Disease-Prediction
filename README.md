@@ -20,17 +20,17 @@ git clone https://github.com/[username]/heart-disease-prediction.git
 ```
 Once cloned, navigate to the project directory and install the required dependencies using the following command:
 
-Copy code
-pip install -r requirements.txt
-Dataset
+```pip install -r requirements.txt
+```
+## Dataset
 The dataset used in this project is the Cleveland Heart Disease dataset, which is available on the UCI Machine Learning Repository.
 
-Usage
+## Usage
 To use the heart disease prediction model, simply run the Jupyter Notebook named heart-disease-prediction.ipynb. This notebook contains all the code necessary to train the model and make predictions on new data.
 
-License
+## License
 This project is licensed under the MIT License.
 
-Acknowledgments
+## Acknowledgments
 This project was inspired by the work of Dr. Jason Brownlee.
 The dataset used in this project was obtained from the UCI Machine Learning Repository.
