@@ -20,7 +20,8 @@ git clone https://github.com/[username]/heart-disease-prediction.git
 ```
 Once cloned, navigate to the project directory and install the required dependencies using the following command:
 
-```pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 ## Dataset
 The dataset used in this project is the Cleveland Heart Disease dataset, which is available on the UCI Machine Learning Repository.
