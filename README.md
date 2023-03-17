@@ -1,20 +1,21 @@
 # -Heart-Disease-Prediction
 This project is a heart disease prediction model that uses machine learning algorithms to predict the likelihood of heart disease based on various factors.
 
-Getting Started
+## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-Prerequisites
+## Prerequisites
 Python 3.x
 Jupyter Notebook
 Scikit-learn
 Pandas
 Numpy
 Matplotlib
-Installing
+
+## Installing
 Clone the repository to your local machine using the following command:
 
-bash
+## bash
 Copy code
 git clone https://github.com/[username]/heart-disease-prediction.git
 Once cloned, navigate to the project directory and install the required dependencies using the following command:
