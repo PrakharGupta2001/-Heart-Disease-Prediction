@@ -1,5 +1,5 @@
 # -Heart-Disease-Prediction
-This project is a heart disease prediction model that uses machine learning algorithms to predict the likelihood of heart disease based on various factors.
+This project is a heart disease prediction model that uses machine learning algorithms to predict the likelihood of heart disease based on various factors. The model has an accuracy of 88%.
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -33,5 +33,5 @@ To use the heart disease prediction model, simply run the Jupyter Notebook named
 This project is licensed under the MIT License.
 
 ## Acknowledgments
-This project was inspired by the work of Dr. Jason Brownlee.
+This project was inspired by the work of Dr. Rajeev Gupta.
 The dataset used in this project was obtained from the UCI Machine Learning Repository.
