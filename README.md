@@ -16,7 +16,7 @@ Matplotlib
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/[username]/heart-disease-prediction.git
+git clone https://github.com/PrakharGupta2001/heart-disease-prediction.git
 ```
 Once cloned, navigate to the project directory and install the required dependencies using the following command:
 
